@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Front End Developer and UI/UX Designer
 --------------------------------------
+## Who I am
 
 I love technology and embrace speed. I was born as an illustrator and graphic designer and animator. 
 
@@ -29,6 +30,12 @@ I have decided to change careers because I want to grow and experiment!!
 <a href="https://www.x.com/preassenza" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/preassenza?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
 /></a>
+
+## What i'm learning
+React and Next!
+- React building e-commerce, take a look: [REPO](https://github.com/Pandagan-85/crwn-clothing-mio) | [deploy](https://crwnclothing-pandagan.netlify.app/)
+- Next experimentig with basic Landin Page, take a look: [REPO](https://github.com/Pandagan-85/TravelLandingNext) | [deploy](https://travel-landing-next.netlify.app/)
+
 ### Skills
 
 <p align="left">
