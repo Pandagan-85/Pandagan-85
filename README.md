@@ -33,8 +33,8 @@ src="https://img.shields.io/twitter/follow/preassenza?logo=twitter&style=for-the
 
 ## What i'm learning
 React and Next!
-- React building e-commerce, take a look: [REPO](https://github.com/Pandagan-85/crwn-clothing-mio) | [deploy](https://crwnclothing-pandagan.netlify.app/)
-- Next experimentig with basic Landin Page, take a look: [REPO](https://github.com/Pandagan-85/TravelLandingNext) | [deploy](https://travel-landing-next.netlify.app/)
+- **React** : building e-commerce, take a look: [REPO](https://github.com/Pandagan-85/crwn-clothing-mio) | [deploy](https://crwnclothing-pandagan.netlify.app/)
+- **Next**: experimentig with basic Landin Page, take a look: [REPO](https://github.com/Pandagan-85/TravelLandingNext) | [deploy](https://travel-landing-next.netlify.app/)
 
 ### Skills
 
