@@ -5,25 +5,19 @@ Front End Developer and UI/UX Designer
 --------------------------------------
 ## Who I am
 
-I love technology and embrace speed. I was born as an illustrator and graphic designer and animator. 
+**From Art to Code: My Strengths and Accomplishments** <br/>
+I began my journey in the creative world as an **illustrator and 2D animator**, which laid a solid foundation for my design sensibility. Eventually, my curiosity led me to web development, starting with **WordPress**, where I moved from basic themes to creating custom and structured solutions using **Advanced Custom Fields (ACF) and Oxygen Builder**. Now, I am diving deeper into modern web development with **Next.js**, aiming to build scalable, dynamic applications that blend functionality and aesthetics.
 
-In recent years, I have discovered a love for programming. 
-I started with **Wordpress**, studying its structure and the endless possibilities it offers. 
-Today, it is my main tool for developing websites, thanks to the use of **custom post types, custom fields, and the Oxygen builder**, which allows me to work with absolute freedom by building templates and conditional logics.
+I am passionate about crafting digital experiences that merge creativity with usability, and I thrive on solving challenging problems through innovative solutions. I previously worked as Head of Web Development, managing both internal and external teams to develop websites and oversee the creation of external microservices. Additionally, I was responsible for researching new tools to enhance company workflows, including task and project management software.
 
-I never stop studying! I am delving into **Javascript** because I would like to bring the perspective of components and templates that I am experiencing with Oxygen into the creation of applications through **React**. 
-I have just started a course to explore the use of **WordPress in Headless mode through React-based libraries**. 
-**I love discovering at least one new thing every day, solving problems, and having an organized team open to dialogue and discussion.** 
+I am committed to **continuous learning and personal growth**, which is why I am enrolled in the [Zero To Mastery Academy](https://zerotomastery.io/academy/), staying up-to-date with the latest technologies and industry best practices. Beyond code, I find joy in organizing my life through writing and systems like Tiago Forte’s **“Second Brain,”** which I implement with **Obsidian** and the PARA method to maintain a well-structured knowledge base. Writing **Morning Pages** and using a **Bullet Journal** also help me stay clear and focused.
 
-I've enrolled in the [ZTM Academy](https://zerotomastery.io/) to learn and improve daily, focusing on React courses. 
-Furthermore, I aspire to delve into the realm of data analysis and manipulation. 
+Physical well-being is another essential part of my routine—I enjoy working out, practicing yoga, and keeping a balance between intellectual and creative pursuits. I’m also a proud nerd, finding inspiration in comics, games like **Magic: The Gathering**, and occasional sketching to let my imagination wander.
 
-I'm a **super Nerd**, I devour TV series and comics, and when I can, I escape for a game of **Magic: The Gathering**.
-I would spend all my money on **Lego**, but fortunately, I have a fantastic wife who often brings me back to reality!
-I have decided to change careers because I want to grow and experiment!!
+I’m looking to join a forward-thinking team where I can continue to grow as a front-end developer, combining my design background, coding skills, and leadership experience to create meaningful digital experiences.
 
 * 🌍  I'm based in Italy
-* 🖥️  See my portfolio at [MyPortfolio](http://www.veronicaschembri.com/)
+* 🖥️  See my portfolio at [veronicaschembri.com](http://www.veronicaschembri.com/)
 * 🧠  I'm learning React
 * ⚡  I'm a Panda, and a super nerd. I love play Magic The Gathering.
 
