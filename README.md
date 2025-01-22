@@ -1,24 +1,26 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Veronica Schembri
 =========================================================================================================================================
 
-Front End Developer and UI/UX Designer
+Front-End Developer | UI/UX Designer | AI & Data Science Learner
 --------------------------------------
 ## Who I am
 
-**From Art to Code: My Strengths and Accomplishments** <br/>
-I began my journey in the creative world as an **illustrator and 2D animator**, which laid a solid foundation for my design sensibility. Eventually, my curiosity led me to web development, starting with **WordPress**, where I moved from basic themes to creating custom and structured solutions using **Advanced Custom Fields (ACF) and Oxygen Builder**. Now, I am diving deeper into modern web development with **Next.js**, aiming to build scalable, dynamic applications that blend functionality and aesthetics.
+**From Art to Code and Now Exploring the World of AI and Data Science** <br/>
+I began my journey in the creative world as an illustrator and 2D animator, which laid a solid foundation for my design sensibility. Eventually, my curiosity led me to web development, starting with WordPress, where I progressed from basic themes to creating custom and structured solutions using Advanced Custom Fields (ACF) and Oxygen Builder. From there, I delved deeper into modern web development with Next.js, aiming to build scalable, dynamic applications that blend functionality and aesthetics.
 
-I am passionate about crafting digital experiences that merge creativity with usability, and I thrive on solving challenging problems through innovative solutions. I previously worked as Head of Web Development, managing both internal and external teams to develop websites and oversee the creation of external microservices. Additionally, I was responsible for researching new tools to enhance company workflows, including task and project management software.
+Recently, I’ve been captivated by the possibilities of artificial intelligence, data science, and machine learning. This growing interest has led me to explore these fields alongside my web development journey, combining my creativity with analytical problem-solving. I’m expanding my knowledge of data-driven solutions and how AI can revolutionize digital experiences, positioning myself at the intersection of front-end development, user experience, and intelligent technologies.
 
-I am committed to **continuous learning and personal growth**, which is why I am enrolled in the [Zero To Mastery Academy](https://zerotomastery.io/academy/), staying up-to-date with the latest technologies and industry best practices. Beyond code, I find joy in organizing my life through writing and systems like Tiago Forte’s **“Second Brain,”** which I implement with **Obsidian** and the PARA method to maintain a well-structured knowledge base. Writing **Morning Pages** and using a **Bullet Journal** also help me stay clear and focused.
+I’m passionate about crafting digital experiences that merge creativity with usability, and I thrive on solving challenging problems through innovative solutions. I previously worked as Head of Web Development, managing both internal and external teams to develop websites and oversee the creation of external microservices. I was also responsible for researching new tools to enhance company workflows, including task and project management software.
 
-Physical well-being is another essential part of my routine—I enjoy working out, practicing yoga, and keeping a balance between intellectual and creative pursuits. I’m also a proud nerd, finding inspiration in comics, games like **Magic: The Gathering**, and occasional sketching to let my imagination wander.
+As someone committed to continuous learning and personal growth, I am currently enrolled in the [Zero To Mastery Academy](https://zerotomastery.io/academy/), staying up-to-date with the latest technologies, frameworks, and industry best practices. Beyond code, I’ve built an effective system for organizing my knowledge and life through Tiago Forte’s “Second Brain” methodology, using Obsidian and the PARA method to maintain a well-structured knowledge base. Writing Morning Pages and using a Bullet Journal further help me stay clear, focused, and aligned with my goals.
 
-I’m looking to join a forward-thinking team where I can continue to grow as a front-end developer, combining my design background, coding skills, and leadership experience to create meaningful digital experiences.
+Physical well-being is another essential part of my routine—I enjoy working out, practicing yoga, and balancing intellectual and creative pursuits. I’m also a proud nerd, finding inspiration in comics, games like Magic: The Gathering, and occasional sketching to let my imagination wander.
+
+I’m looking to join a forward-thinking team where I can continue to grow as a front-end developer while leveraging my expanding expertise in AI, data science, and machine learning. My unique blend of design background, coding skills, and leadership experience equips me to create meaningful, innovative, and intelligent digital experiences.
 
 * 🌍  I'm based in Italy
 * 🖥️  See my portfolio at [veronicaschembri.com](http://www.veronicaschembri.com/)
-* 🧠  I'm learning React
+* 🧠  I'm learning React, Data Science, and Machine Learning
 * ⚡  I'm a Panda, and a super nerd. I love play Magic The Gathering.
 
 <a href="https://www.x.com/preassenza" target="_blank" rel="noreferrer"><img
@@ -26,14 +28,33 @@ src="https://img.shields.io/twitter/follow/preassenza?logo=twitter&style=for-the
 /></a>
 
 ## What i'm learning
-React and Next!
+React and Next! And super focus on Data science and machine learning! 
 - **React** : building e-commerce, take a look: [REPO](https://github.com/Pandagan-85/crwn-clothing-mio) | [deploy](https://crwnclothing-pandagan.netlify.app/)
 - **Next**: experimentig with basic Landin Page, take a look: [REPO](https://github.com/Pandagan-85/TravelLandingNext) | [deploy](https://travel-landing-next.netlify.app/)
+- **Data science and machine learning**: [REPO](https://github.com/Pandagan-85/ZTM-Machine-learning)
 
 ### Skills
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+Front End 
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git,js,react,nextjs,html,css,tailwind,wordpress" />
+  </a>
+</p>
+
+Data Science
+<p align="center">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=anaconda,pycharm,sklearn" />
+    </a>
+</p>
+
+
+Tools 
+<p align="center">
+  <a href="#">
+<img src="https://skillicons.dev/icons?i=postman,vercel,obsidian,github,gmail,ai,vscode,xd,figma,ps,ae " />
+     </a>
 </p>
 
 ### Socials
