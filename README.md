@@ -1,26 +1,26 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Veronica Schembri
 =========================================================================================================================================
 
-Front-End Developer | UI/UX Designer | AI & Data Science Learner
+Junior AI Engineer | Machine Learning & LLMs | Data Science & Automation | Python | Front-End Developer | Creative Problem-Solver
 --------------------------------------
-## Who I am
+## It's a ME!
 
 **From Art to Code and Now Exploring the World of AI and Data Science** <br/>
-I began my journey in the creative world as an illustrator and 2D animator, which laid a solid foundation for my design sensibility. Eventually, my curiosity led me to web development, starting with WordPress, where I progressed from basic themes to creating custom and structured solutions using Advanced Custom Fields (ACF) and Oxygen Builder. From there, I delved deeper into modern web development with Next.js, aiming to build scalable, dynamic applications that blend functionality and aesthetics.
+From illustration to code to AI, my unique journey has equipped me with the perfect blend of analytical thinking and creative vision to transform complex data into intelligent, visually engaging solutions.
 
-Recently, I’ve been captivated by the possibilities of artificial intelligence, data science, and machine learning. This growing interest has led me to explore these fields alongside my web development journey, combining my creativity with analytical problem-solving. I’m expanding my knowledge of data-driven solutions and how AI can revolutionize digital experiences, positioning myself at the intersection of front-end development, user experience, and intelligent technologies.
+I specialize in Exploratory Data Analysis (EDA), building predictive models, and implementing compelling data visualizations. I take both analytical and creative approaches to problem-solving, leveraging advanced tools like Pandas, NumPy, TensorFlow, and Scikit-Learn. My experience in structuring visual information has created a natural bridge to AI, where logical organization is fundamental.
 
-I’m passionate about crafting digital experiences that merge creativity with usability, and I thrive on solving challenging problems through innovative solutions. I previously worked as Head of Web Development, managing both internal and external teams to develop websites and oversee the creation of external microservices. I was also responsible for researching new tools to enhance company workflows, including task and project management software.
+Recently, I've been focusing on studying **Large Language Models (LLMs)** and creating **AI agents**. I'm particularly interested in experimenting with **script building, intelligent automation, and function creation to enhance workflows**. I'm also exploring application deployment with **AWS and Docker** to gain skills in launching and managing large-scale solutions.
 
-As someone committed to continuous learning and personal growth, I am currently enrolled in the [Zero To Mastery Academy](https://zerotomastery.io/academy/), staying up-to-date with the latest technologies, frameworks, and industry best practices. Beyond code, I’ve built an effective system for organizing my knowledge and life through Tiago Forte’s “Second Brain” methodology, using Obsidian and the PARA method to maintain a well-structured knowledge base. Writing Morning Pages and using a Bullet Journal further help me stay clear, focused, and aligned with my goals.
+My work method draws inspiration from productivity and knowledge management practices: I write **morning pages** to stimulate creativity, use **bullet journaling** to organize my day, and manage resources with **Obsidian**, following Tiago Forte's Building a Second Brain methodology. These practices fuel my growth both as an AI Engineer and in personal projects.
 
-Physical well-being is another essential part of my routine—I enjoy working out, practicing yoga, and balancing intellectual and creative pursuits. I’m also a proud nerd, finding inspiration in comics, games like Magic: The Gathering, and occasional sketching to let my imagination wander.
+As someone committed to **continuous learning and professional growth**, I am currently enrolled in the **[Zero To Mastery Academy](https://zerotomastery.io/academy/)**, staying up-to-date with the latest technologies, frameworks, and industry best practices.
 
-I’m looking to join a forward-thinking team where I can continue to grow as a front-end developer while leveraging my expanding expertise in AI, data science, and machine learning. My unique blend of design background, coding skills, and leadership experience equips me to create meaningful, innovative, and intelligent digital experiences.
+When I'm not immersed in data, I'm passionate about TV series, comics, and **Magic: The Gathering**—worlds characterized by complex, well-structured systems that mirror my passion for order and logic.
 
 * 🌍  I'm based in Italy
 * 🖥️  See my portfolio at [veronicaschembri.com](http://www.veronicaschembri.com/)
-* 🧠  I'm learning React, Data Science, and Machine Learning
+* 🧠  I'm learning LLMs, LangGraph, AWS, AI AGENTS
 * ⚡  I'm a Panda, and a super nerd. I love play Magic The Gathering.
 
 <a href="https://www.x.com/preassenza" target="_blank" rel="noreferrer"><img
@@ -28,26 +28,27 @@ src="https://img.shields.io/twitter/follow/preassenza?logo=twitter&style=for-the
 /></a>
 
 ## What i'm learning
-React and Next! And super focus on Data science and machine learning! 
-- **React** : building e-commerce, take a look: [REPO](https://github.com/Pandagan-85/crwn-clothing-mio) | [deploy](https://crwnclothing-pandagan.netlify.app/)
-- **Next**: experimentig with basic Landin Page, take a look: [REPO](https://github.com/Pandagan-85/TravelLandingNext) | [deploy](https://travel-landing-next.netlify.app/)
-- **Data science and machine learning**: [REPO](https://github.com/Pandagan-85/ZTM-Machine-learning)
+LLMS, RAG and AI AGENT
+- **RAG** : take a look: [REPO](https://github.com/pandagan-85/ai-rag-streamlit/blob/main/app.py) | [deploy](https://ai-rag-app-bxkg3qhfedczttqusxrury.streamlit.app/)
+- **Dog Classifier**: [REPO](https://github.com/Pandagan-85/ZTM-Machine-learning/blob/main/end_to_end_dog_vision.ipynb) | [deploy](https://github.com/Pandagan-85/dog-breed-classifier-streamlit)
 
 ### Skills
 
-Front End 
+AI Engineering & Machine Learning
+<p align="center">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=python,anaconda,pycharm,sklearn,git" />
+    </a>
+</p>
+
+Front End Dev
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,js,react,nextjs,html,css,tailwind,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,js,react,nextjs,html,css,tailwind,wordpress,typescript" />
   </a>
 </p>
 
-Data Science
-<p align="center">
-<a href="#">
-<img src="https://skillicons.dev/icons?i=anaconda,pycharm,sklearn" />
-    </a>
-</p>
+
 
 
 Tools 
