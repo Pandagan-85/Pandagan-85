@@ -5,18 +5,17 @@ Junior AI Engineer | Machine Learning & LLMs | Data Science & Automation | Pytho
 --------------------------------------
 ## It's a ME!
 
-**From Art to Code and Now Exploring the World of AI and Data Science** <br/>
-From illustration to code to AI, my unique journey has equipped me with the perfect blend of analytical thinking and creative vision to transform complex data into intelligent, visually engaging solutions.
+**AI Engineer with Multidisciplinary Background in Data Science, Front-End Development, and Visual Design**
 
-I specialize in Exploratory Data Analysis (EDA), building predictive models, and implementing compelling data visualizations. I take both analytical and creative approaches to problem-solving, leveraging advanced tools like Pandas, NumPy, TensorFlow, and Scikit-Learn. My experience in structuring visual information has created a natural bridge to AI, where logical organization is fundamental.
+My journey from illustration to programming to AI has given me a unique perspective in transforming complex data into intelligent and visually engaging solutions. By combining data analysis, automation, and design, I create systems that unite logic and creativity to optimize workflows and solve real-world problems.
 
-Recently, I've been focusing on studying **Large Language Models (LLMs)** and creating **AI agents**. I'm particularly interested in experimenting with **script building, intelligent automation, and function creation to enhance workflows**. I'm also exploring application deployment with **AWS and Docker** to gain skills in launching and managing large-scale solutions.
+I specialize in **Exploratory Data Analysis (EDA)**, building **predictive models**, and implementing **data visualization**. I take both analytical and creative approaches to problem-solving, leveraging advanced tools like **Pandas**, **NumPy**, **TensorFlow**, and **Scikit-Learn**. My experience in **structuring visual information** has created a natural bridge to AI, where **logical organization** is fundamental.
 
-My work method draws inspiration from productivity and knowledge management practices: I write **morning pages** to stimulate creativity, use **bullet journaling** to organize my day, and manage resources with **Obsidian**, following Tiago Forte's Building a Second Brain methodology. These practices fuel my growth both as an AI Engineer and in personal projects.
+Recently, I've been focusing on studying **Large Language Models (LLMs)** and creating **AI agents**. I'm particularly interested in experimenting with **script building**, **intelligent automation**, and **function creation** to enhance workflows. I'm also exploring **application deployment with AWS and Docker** to gain skills in launching and managing large-scale solutions.
 
-As someone committed to **continuous learning and professional growth**, I am currently enrolled in the **[Zero To Mastery Academy](https://zerotomastery.io/academy/)**, staying up-to-date with the latest technologies, frameworks, and industry best practices.
+My work method draws inspiration from productivity and knowledge management practices: I write **morning pages** to stimulate creativity, use **bullet journaling** to organize my day, and manage resources with **Obsidian**, following the **Building a Second Brain** methodology by Tiago Forte. These practices fuel my growth both as an AI Engineer and in personal projects.
 
-When I'm not immersed in data, I'm passionate about TV series, comics, and **Magic: The Gathering**—worlds characterized by complex, well-structured systems that mirror my passion for order and logic.
+When I'm not immersed in data, I'm passionate about **TV series**, **comics**, and **Magic: The Gathering**—worlds characterized by complex, well-structured systems that mirror my passion for order and logic.
 
 * 🌍  I'm based in Italy
 * 🖥️  See my portfolio at [veronicaschembri.com](http://www.veronicaschembri.com/)
@@ -29,6 +28,8 @@ src="https://img.shields.io/twitter/follow/preassenza?logo=twitter&style=for-the
 
 ## What i'm learning
 LLMS, RAG and AI AGENT
+- **Ai Agent with CrewAI** : take a look: [REPO](https://github.com/Pandagan-85/ai-agent-crewAI) | [deploy](https://crewai-interview-prep.streamlit.app/)
+- **NutriCHOice**: [REPO](https://github.com/Pandagan-85/ai-bootcamp-2025-project-final) | [deploy](https://nutrichoice-edgemony.streamlit.app/)
 - **RAG** : take a look: [REPO](https://github.com/pandagan-85/ai-rag-streamlit/blob/main/app.py) | [deploy](https://ai-rag-app-bxkg3qhfedczttqusxrury.streamlit.app/)
 - **Dog Classifier**: [REPO](https://github.com/Pandagan-85/ZTM-Machine-learning/blob/main/end_to_end_dog_vision.ipynb) | [deploy](https://github.com/Pandagan-85/dog-breed-classifier-streamlit)
 
@@ -37,7 +38,7 @@ LLMS, RAG and AI AGENT
 AI Engineering & Machine Learning
 <p align="center">
 <a href="#">
-<img src="https://skillicons.dev/icons?i=python,anaconda,pycharm,sklearn,git" />
+<img src="https://skillicons.dev/icons?i=python,anaconda,pycharm,sklearn,git,aws," />
     </a>
 </p>
 
@@ -54,7 +55,7 @@ Front End Dev
 Tools 
 <p align="center">
   <a href="#">
-<img src="https://skillicons.dev/icons?i=postman,vercel,obsidian,github,gmail,ai,vscode,xd,figma,ps,ae " />
+<img src="https://skillicons.dev/icons?i=postman,vercel,obsidian,github,gmail,ai,vscode,xd,figma,ps,ae,discord " />
      </a>
 </p>
 
